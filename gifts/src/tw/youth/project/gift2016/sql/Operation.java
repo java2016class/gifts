@@ -3,7 +3,7 @@ package tw.youth.project.gift2016.sql;
 import java.sql.Connection;
 import java.util.ArrayList;
 
-import tw.youth.project.gift2016.gift.AODR;
+import tw.youth.project.gift2016.aodr.AODR;
 
 public class Operation {
 	public static Connection conn;
